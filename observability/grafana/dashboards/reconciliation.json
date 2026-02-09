@@ -1,0 +1,1 @@
+{ "dashboard": { "id": null, "title": "Reconciliation Overview", "panels": [ { "type": "graph", "title": "Reconciliation Success Rate", "targets": [ { "expr": "rate(success_total[1m])", "format": "time_series" } ] } ] } }
