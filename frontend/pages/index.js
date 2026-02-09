@@ -1,0 +1,1 @@
+import React from 'react'; export default function Home() { return <div className='container'>Financial Reconciliation System</div>; }
